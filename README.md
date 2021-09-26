@@ -1,4 +1,4 @@
-Creating an Educational Institution
+<h2>Creating an Educational Institution</h2>
 Live Site Link:https://educational-institution-592567.netlify.app/
 ## Available Scripts
 

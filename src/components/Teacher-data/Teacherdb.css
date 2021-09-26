@@ -1,0 +1,18 @@
+.institution-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.teacher-container{
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 50px;
+}
+.teacher-container img{
+    height: 150px;
+    width: 200px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+.text-container{
+    margin-top: 15px;
+}
